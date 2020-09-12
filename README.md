@@ -1,2 +1,7 @@
 # PyLister
-Generate a Wordlist For multiple attacks 
+
+   Powred By Mazy_lan
+
+# Usage :
+
+    pylister.py Min Max Char OutFil
